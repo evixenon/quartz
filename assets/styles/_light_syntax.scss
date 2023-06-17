@@ -1,5 +1,5 @@
-/* Background */ .bg { color: #272822; background-color: #fafafa; }
-/* PreWrapper */ .chroma { color: #272822; background-color: #fafafa; }
+/* Background */ .bg { color: #232418; background-color: #fafafa; }
+/* PreWrapper */ .chroma { color: #232418; background-color: #fafafa; }
 /* Other */ .chroma .x {  }
 /* Error */ .chroma .err { }
 /* CodeLine */ .chroma .cl {  }
@@ -83,3 +83,13 @@
 /* GenericTraceback */ .chroma .gt {  }
 /* GenericUnderline */ .chroma .gl {  }
 /* TextWhitespace */ .chroma .w {  }
+
+/* Blockquote */
+blockquote {background-color: #dedede94}
+blockquote p {color:rgb(56, 56, 56)}
+blockquote::before{background-color: #97bddf}
+
+/* Main Wrap */
+#content {
+  box-shadow: 0px 2px 8px 8px rgba(240, 240, 240, 0.77); 
+}

@@ -7,14 +7,16 @@
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
-    <article>
+    <article><div id="content">
+      <h1>知识库首页</h1>
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
         {{end}}
-    </article>
-    {{partial "footerIndex.html" .}}
+    </div></article>
+    <!-- {{partial "footerIndex.html" .}} -->
+    {{partial "contact.html" .}}
 </div>
 </body>
 </html>

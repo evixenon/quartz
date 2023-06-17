@@ -83,3 +83,12 @@
 /* GenericTraceback */ .chroma .gt {  }
 /* GenericUnderline */ .chroma .gl { text-decoration: underline }
 /* TextWhitespace */ .chroma .w {  }
+
+/* Blockquote */
+blockquote {background-color: rgb(53, 53, 54)}
+blockquote::before{background-color: #97bddf}
+
+/* Main Wrap */
+#content {
+  box-shadow: 0px 2px 8px 8px rgba(53, 53, 54, 0.3); 
+}

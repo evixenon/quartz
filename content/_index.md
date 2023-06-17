@@ -1,27 +1,31 @@
 ---
-title: 🪴 Quartz 3.3
-enableToc: false
+title: "_index"
+date: "2023-06-14"
+tag:
+- Home
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+## Tags
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+[All Tags](tags/)
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+## 文件夹
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+[Quartz文档/](notes/)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+[index/](index/)
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+[permanent/](permanent/)
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+[project/](project)
+## Index
+- [[index/0 周边纪实|0 周边纪实]]
+- [[index/1 生活消费|1 生活消费]]
+- [[index/2 工学与应用技术|2 工学与应用技术]]
+- [[index/3 理学与自然科学|3 理学与自然科学]]
+- [[index/4 人文历史与社会科学|4 人文历史与社会科学]]
+- [[index/5 艺术|5 艺术]]
+- [[index/6 语言|6 语言]]
+- [[index/7 哲学与宗教|7 哲学与宗教]]
 
+[[permanent/样式测试|样式测试]]
