@@ -28,3 +28,6 @@ tags:
 draft:true在图里是乱码, 其他好像不会
 
 链接用别名好像 rebuild 一下也不会乱码
+
+##### Ubuntu 和 hugo
+hugo 在 Ubuntu 上挺多小问题的, 比如 没法 apt/snap 安装最新版, 及时安装了最新版, 会有一些我我 win 上 build 的时候不会发生的 render 问题
